@@ -1,0 +1,2 @@
+- [Embedded Linux "from scratch" in 45 minutes...on RISC-V](https://youtu.be/tvNLwFcUjA4)
+- [Linux on RISC-V and the New OS-A Platform - Drew Fustini, BayLibre](https://youtu.be/fBHhR4a-KR0)
